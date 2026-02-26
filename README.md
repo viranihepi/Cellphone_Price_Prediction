@@ -1,4 +1,4 @@
-# Mobile_Price_Prediction
+# Cellphone_Price_Prediction
 ML classification project for mobile price prediction.
 
 Dataset : Conatin mobile specifications and price_range as target(cellphone_dataset.xls)
